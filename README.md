@@ -1,7 +1,7 @@
 # Getting-Started--Launching-Tableau
 1. Launch the app on your desktop *ChromeOS does not support Tableau Desktop*
 2. Connect Tableau to data source of choice E.g [title] (https://docs.google.com/spreadsheets/d/1RzU5DgjJf1hqWez1d29ZHZ-TkJkHYcdt/edit#gid=217844784)
-3. (image)
+3. ![Connect](https://www.tutorialspoint.com/tableau/images/data_source_1.JPG)
 4. The left column shows the connection to the data source.
 5.  **Recommended: Check the box Use Data Interpreter, to clean the data**
 6. (image)
