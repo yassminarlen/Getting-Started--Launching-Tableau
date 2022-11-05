@@ -7,10 +7,10 @@
   ![Data Interpreter](https://help.tableau.com/current/pro/desktop/en-us/Img/data_interpreter5.png) 
 6. Drag Ranked Measure Data file to the right blank sheet. 
 7. Drag Additional Measure Data file to the right blank sheet next to Ranked Measure Data file to create a connection.
-8. (image)
-9. To make this connection works modify the drop boxes below, and select FIPS for both.
-10. Repeat the process for *Outcomes and Factor Rankings* and *Outcomes and Factor Subrankings*.
-11. (image)
-12. **This will create a successful connection, changing the red line to an orange one.**
-13. (image)
-14. You are ready to begin making visuals, drag variables to the **Columns** and **Rows**
+![Connecting Tables](https://images.squarespace-cdn.com/content/v1/57bfa51129687fe4f8df9bbe/1532731174003-5H76YX99FQPBLXHNH2HE/51-1.png)
+8. To make this connection works modify the drop boxes below, and select FIPS for both.
+9. Repeat the process for *Outcomes and Factor Rankings* and *Outcomes and Factor Subrankings*.
+10. (image)
+11. **This will create a successful connection, changing the red line to an orange one.**
+12. (image)
+13. You are ready to begin making visuals, drag variables to the **Columns** and **Rows**
