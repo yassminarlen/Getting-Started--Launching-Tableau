@@ -15,3 +15,4 @@
 ![Sheet 1](https://help.tableau.com/current/pro/desktop/en-us/Img/gs_connect8.png)
 12. Congradulations, you are ready to begin making visuals, drag variables to the **Columns** and **Rows**
 13. [mark down cheat sheet] (https://www.markdownguide.org/cheat-sheet/) 
+14. [initial data] (https://github.com/UAZcast-dataliteracy/dataliteracycourse/blob/main/project.csv) 
