@@ -15,4 +15,4 @@
 11. Go to "Sheet 1" located at the bottom of the page to start creating graphs of your choice. 
 ![Sheet 1](https://help.tableau.com/current/pro/desktop/en-us/Img/gs_connect8.png)
 12. Congradulations, you are ready to begin making visuals, drag variables to the **Columns** and **Rows**
-[Clean Community Data_]("C:\Users\Gonzalez\Downloads\Intial Data.html")
+[Clean Community Data]("C:\Users\Gonzalez\Downloads\Intial Data.html")
