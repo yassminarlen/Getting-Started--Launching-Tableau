@@ -1,5 +1,4 @@
 # Getting-Started--Launching-Tableau
-## 12 Steps to Creating Visuals on Tableau 
 1. Launch the app on your desktop *ChromeOS does not support Tableau Desktop*
 2. Connect Tableau to data source of choice E.g [community data 2022] (https://docs.google.com/spreadsheets/d/1RzU5DgjJf1hqWez1d29ZHZ-TkJkHYcdt/edit#gid=217844784)
  ![Connect](https://www.tutorialspoint.com/tableau/images/data_source_1.JPG)
@@ -15,5 +14,4 @@
 11. Go to "Sheet 1" located at the bottom of the page to start creating graphs of your choice. 
 ![Sheet 1](https://help.tableau.com/current/pro/desktop/en-us/Img/gs_connect8.png)
 12. Congradulations, you are ready to begin making visuals, drag variables to the **Columns** and **Rows**
-13. 
-[Clean Community Data]("C:\Users\Gonzalez\Downloads\Intial Data.html")
+13. [mark down cheat sheet] (https://www.markdownguide.org/cheat-sheet/) 
